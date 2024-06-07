@@ -3,6 +3,7 @@
 ## [. iOS & Swift - The Complete iOS App Development Bootcamp >> I am Poor](https://brq.udemy.com/course/ios-13-app-development-bootcamp/learn/lecture/16251044#questions)
 
   - Storyboard
+  - Display only
   
 ### by d_llirium
 
